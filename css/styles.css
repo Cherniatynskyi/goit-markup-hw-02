@@ -3,7 +3,6 @@
     --minor-text-color: #2196f3;
     --second-text-color: #757575;
     --nav-bg_text-color: #ffffff;
-    --section-bg-bright-color: #e5e5e5;
     --section-bg-middle-color: #f5f4fa;
     --section-bg-dark-color: #2f303a;
 }
@@ -98,7 +97,7 @@ body {
     cursor: pointer;
 }
 .advantages-section {
-    background-color: var(--section-bg-bright-color);
+    background-color: var(--nav-bg_text-color);
 }
 .advantages-list .advantages-list-title {
     font-weight: bold;
@@ -115,7 +114,7 @@ body {
     color: var(--second-text-color);
 }
 .about-us-section {
-    background-color: var(--section-bg-bright-color);
+    background-color: var(--nav-bg_text-color);
 }
 .about-us-title {
     font-weight: bold;
